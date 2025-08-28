@@ -1,31 +1,24 @@
 # Data-Science-projects at Société Générale
 
-🚗 Stress Test ML Pipeline (Société Générale)
+### 🚗 Stress Test ML Pipeline (Société Générale)  
 
-Role: Data Scientist | Apr 2023 – Jan 2024
-Tech Stack: Python, SQL, Kedro, MLflow, Databricks, Power BI, Random Forest, Logistic Regression
+**Role:** Data Scientist | Apr 2023 – Jan 2024  
+**Tech Stack:** Python, SQL, Kedro, MLflow, Databricks, Power BI, Random Forest, Logistic Regression  
 
-Context:
-The European Central Bank (ECB) mandated stress testing to evaluate vehicle residual values under both normal (central) and adverse (stress) economic conditions. The goal was to project risks across 7 European countries and support business decision-making through data-driven insights.
+**Context:**  
+European Central Bank mandated stress testing to evaluate vehicle residual values under normal (central) and adverse (stress) economic conditions. The goal was to project risks across 7 European countries and support decision-making with robust forecasts.  
 
-Key Contributions:
+**Key Contributions:**  
+- Built and deployed a **Kedro-based ML pipeline** for data ingestion, preprocessing, and model execution  
+- Developed **Random Forest & Logistic Regression models** for central vs. stress scenario predictions  
+- Integrated **macroeconomic + vehicle data** for robust scenario analysis  
+- Implemented **MLflow** for experiment tracking, hyperparameter tuning, and model versioning  
+- Automated **quarterly reporting** with Power BI dashboards for business stakeholders  
+- Optimized runtime in **Databricks**, improving scalability and efficiency  
 
-Designed and implemented a Kedro-based pipeline to automate data ingestion, preprocessing, and model execution.
+**Impact:**  
+- Delivered **5-year projections** across 7 countries (UK, Spain, Belgium, France, Germany, Italy, Netherlands)  
+- Reduced manual effort in reporting and ensured **reproducibility**  
+- Results used in **Asset Risk Committee** meetings to guide asset risk strategy  
 
-Developed Random Forest & Logistic Regression models to estimate residual values under both economic scenarios.
-
-Integrated macroeconomic data with vehicle data for robust forecasting and scenario simulations.
-
-Implemented MLflow for tracking experiments, hyperparameters, and model performance across iterations.
-
-Automated quarterly reporting with Power BI dashboards, ensuring results were consumable by business teams.
-
-Optimized pipeline execution in Databricks, reducing runtime and improving scalability.
-
-Impact:
-
-Enabled quarterly projections for 5 years across 7 countries (UK, Spain, Belgium, France, Germany, Italy, Netherlands).
-
-Improved efficiency of stress test reporting by reducing manual intervention and increasing reproducibility.
-
-Directly supported presentations to the Asset Risk Committee, influencing strategic risk and asset management decisions.
+*⚠️ Code is confidential; reach out if you'd like to discuss the pipeline design & ML workflow!*  
