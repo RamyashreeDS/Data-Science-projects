@@ -1,6 +1,4 @@
-# Data-Science-projects
-DS projects
-## 📂 Featured Projects  
+# Data-Science-projects at Société Générale
 
 ### 🚗 Stress Test ML Pipeline (Société Générale)  
 **Role:** Data Scientist | **Duration:** Apr 2023 – Jan 2024  
