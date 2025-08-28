@@ -1,6 +1,6 @@
 # Data-Science-projects at Société Générale
 
-### 🚗 Stress Test ML Pipeline (Société Générale)  
+### 1. 🚗 Stress Test ML Pipeline (Société Générale)  
 
 **Role:** Data Scientist | Apr 2023 – Jan 2024  
 **Tech Stack:** Python, SQL, Kedro, MLflow, Databricks, Power BI, Random Forest, Logistic Regression  
